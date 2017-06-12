@@ -1,6 +1,0 @@
-1.	Create a class called account with the data members(Accno – integer, name String, Phone_No: integer, balance_amt:float), and following methods :
-  a.	Parameterized constructor to initialize the data members 
-  b.	Deposit() method which takes the amount to be deposited in to his/her account and do the calculation.
-  c.	Withdraw() method which gets the amount to be withdrawn from his/her account.
-Print the appropriate results.
-Write a main method to read account details of  ‘n’ employees from the user. If the amount in an employee account is less than 10000, display it.
